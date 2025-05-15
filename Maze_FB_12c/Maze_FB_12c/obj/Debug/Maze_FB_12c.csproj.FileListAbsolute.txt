@@ -1,0 +1,7 @@
+H:\2024-25\Szoftver tesztelés\Maze_FB_12c\Maze_FB_12c\bin\Debug\Maze_FB_12c.exe.config
+H:\2024-25\Szoftver tesztelés\Maze_FB_12c\Maze_FB_12c\bin\Debug\Maze_FB_12c.exe
+H:\2024-25\Szoftver tesztelés\Maze_FB_12c\Maze_FB_12c\bin\Debug\Maze_FB_12c.pdb
+H:\2024-25\Szoftver tesztelés\Maze_FB_12c\Maze_FB_12c\obj\Debug\Maze_FB_12c.csproj.AssemblyReference.cache
+H:\2024-25\Szoftver tesztelés\Maze_FB_12c\Maze_FB_12c\obj\Debug\Maze_FB_12c.csproj.CoreCompileInputs.cache
+H:\2024-25\Szoftver tesztelés\Maze_FB_12c\Maze_FB_12c\obj\Debug\Maze_FB_12c.exe
+H:\2024-25\Szoftver tesztelés\Maze_FB_12c\Maze_FB_12c\obj\Debug\Maze_FB_12c.pdb
