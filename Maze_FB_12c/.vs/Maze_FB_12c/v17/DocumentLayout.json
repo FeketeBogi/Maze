@@ -1,9 +1,17 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "H:\\2024-25\\Szoftver tesztel\u00E9s\\Maze_FB_12c\\",
+  "WorkspaceRootPath": "C:\\Users\\feket\\Documents\\Maze\\Maze\\Maze_FB_12c\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{2E5D60B0-8B61-4AE9-8E0A-634BA8A21B25}|Maze_FB_12c\\Maze_FB_12c.csproj|h:\\2024-25\\szoftver tesztel\u00E9s\\maze_fb_12c\\maze_fb_12c\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{2E5D60B0-8B61-4AE9-8E0A-634BA8A21B25}|Maze_FB_12c\\Maze_FB_12c.csproj|C:\\Users\\feket\\Documents\\Maze\\Maze\\Maze_FB_12c\\maze_fb_12c\\maze.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E5D60B0-8B61-4AE9-8E0A-634BA8A21B25}|Maze_FB_12c\\Maze_FB_12c.csproj|solutionrelative:maze_fb_12c\\maze.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E5D60B0-8B61-4AE9-8E0A-634BA8A21B25}|Maze_FB_12c\\Maze_FB_12c.csproj|c:\\users\\feket\\documents\\maze\\maze\\maze_fb_12c\\maze_fb_12c\\test.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E5D60B0-8B61-4AE9-8E0A-634BA8A21B25}|Maze_FB_12c\\Maze_FB_12c.csproj|solutionrelative:maze_fb_12c\\test.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E5D60B0-8B61-4AE9-8E0A-634BA8A21B25}|Maze_FB_12c\\Maze_FB_12c.csproj|C:\\Users\\feket\\Documents\\Maze\\Maze\\Maze_FB_12c\\maze_fb_12c\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2E5D60B0-8B61-4AE9-8E0A-634BA8A21B25}|Maze_FB_12c\\Maze_FB_12c.csproj|solutionrelative:maze_fb_12c\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -17,21 +25,42 @@
           "SelectedChildIndex": 1,
           "Children": [
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Test.cs",
+              "DocumentMoniker": "C:\\Users\\feket\\Documents\\Maze\\Maze\\Maze_FB_12c\\Maze_FB_12c\\Test.cs",
+              "RelativeDocumentMoniker": "Maze_FB_12c\\Test.cs",
+              "ToolTip": "C:\\Users\\feket\\Documents\\Maze\\Maze\\Maze_FB_12c\\Maze_FB_12c\\Test.cs",
+              "RelativeToolTip": "Maze_FB_12c\\Test.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAIwBQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T19:57:19.537Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "H:\\2024-25\\Szoftver tesztel\u00E9s\\Maze_FB_12c\\Maze_FB_12c\\Program.cs",
-              "RelativeDocumentMoniker": "Maze_FB_12c\\Program.cs",
-              "ToolTip": "H:\\2024-25\\Szoftver tesztel\u00E9s\\Maze_FB_12c\\Maze_FB_12c\\Program.cs",
-              "RelativeToolTip": "Maze_FB_12c\\Program.cs",
-              "ViewState": "AgIAABcAAAAAAAAAAAAgwDAAAAAAAAAAAAAAAA==",
+              "Title": "Maze.cs",
+              "DocumentMoniker": "C:\\Users\\feket\\Documents\\Maze\\Maze\\Maze_FB_12c\\Maze_FB_12c\\Maze.cs",
+              "RelativeDocumentMoniker": "Maze_FB_12c\\Maze.cs",
+              "ToolTip": "C:\\Users\\feket\\Documents\\Maze\\Maze\\Maze_FB_12c\\Maze_FB_12c\\Maze.cs",
+              "RelativeToolTip": "Maze_FB_12c\\Maze.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAzwCMAAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-15T07:13:17.897Z",
+              "WhenOpened": "2025-05-20T17:06:35.355Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\feket\\Documents\\Maze\\Maze\\Maze_FB_12c\\Maze_FB_12c\\Program.cs",
+              "RelativeDocumentMoniker": "Maze_FB_12c\\Program.cs",
+              "ToolTip": "C:\\Users\\feket\\Documents\\Maze\\Maze\\Maze_FB_12c\\Maze_FB_12c\\Program.cs",
+              "RelativeToolTip": "Maze_FB_12c\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA8AAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T07:13:17.897Z"
             }
           ]
         }
