@@ -3,12 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\feket\\Documents\\Maze\\Maze\\Maze_FB_12c\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{2E5D60B0-8B61-4AE9-8E0A-634BA8A21B25}|Maze_FB_12c\\Maze_FB_12c.csproj|C:\\Users\\feket\\Documents\\Maze\\Maze\\Maze_FB_12c\\maze_fb_12c\\maze.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{2E5D60B0-8B61-4AE9-8E0A-634BA8A21B25}|Maze_FB_12c\\Maze_FB_12c.csproj|c:\\users\\feket\\documents\\maze\\maze\\maze_fb_12c\\maze_fb_12c\\maze.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2E5D60B0-8B61-4AE9-8E0A-634BA8A21B25}|Maze_FB_12c\\Maze_FB_12c.csproj|solutionrelative:maze_fb_12c\\maze.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2E5D60B0-8B61-4AE9-8E0A-634BA8A21B25}|Maze_FB_12c\\Maze_FB_12c.csproj|c:\\users\\feket\\documents\\maze\\maze\\maze_fb_12c\\maze_fb_12c\\test.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2E5D60B0-8B61-4AE9-8E0A-634BA8A21B25}|Maze_FB_12c\\Maze_FB_12c.csproj|solutionrelative:maze_fb_12c\\test.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{38D24B46-C93F-4063-8082-42410AA09117}|MazeTest\\MazeTest.csproj|c:\\users\\feket\\documents\\maze\\maze\\maze_fb_12c\\mazetest\\mazetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38D24B46-C93F-4063-8082-42410AA09117}|MazeTest\\MazeTest.csproj|solutionrelative:mazetest\\mazetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38D24B46-C93F-4063-8082-42410AA09117}|MazeTest\\MazeTest.csproj|c:\\users\\feket\\documents\\maze\\maze\\maze_fb_12c\\mazetest\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38D24B46-C93F-4063-8082-42410AA09117}|MazeTest\\MazeTest.csproj|solutionrelative:mazetest\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{2E5D60B0-8B61-4AE9-8E0A-634BA8A21B25}|Maze_FB_12c\\Maze_FB_12c.csproj|C:\\Users\\feket\\Documents\\Maze\\Maze\\Maze_FB_12c\\maze_fb_12c\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -22,21 +26,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Test.cs",
-              "DocumentMoniker": "C:\\Users\\feket\\Documents\\Maze\\Maze\\Maze_FB_12c\\Maze_FB_12c\\Test.cs",
-              "RelativeDocumentMoniker": "Maze_FB_12c\\Test.cs",
-              "ToolTip": "C:\\Users\\feket\\Documents\\Maze\\Maze\\Maze_FB_12c\\Maze_FB_12c\\Test.cs",
-              "RelativeToolTip": "Maze_FB_12c\\Test.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAIwBQAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-20T19:57:19.537Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -45,22 +36,51 @@
               "RelativeDocumentMoniker": "Maze_FB_12c\\Maze.cs",
               "ToolTip": "C:\\Users\\feket\\Documents\\Maze\\Maze\\Maze_FB_12c\\Maze_FB_12c\\Maze.cs",
               "RelativeToolTip": "Maze_FB_12c\\Maze.cs",
-              "ViewState": "AgIAABMAAAAAAAAAAAAzwCMAAAAsAAAAAAAAAA==",
+              "ViewState": "AgIAAFYAAAAAAAAAAAAiwBIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-20T17:06:35.355Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MazeTest.cs",
+              "DocumentMoniker": "C:\\Users\\feket\\Documents\\Maze\\Maze\\Maze_FB_12c\\MazeTest\\MazeTest.cs",
+              "RelativeDocumentMoniker": "MazeTest\\MazeTest.cs",
+              "ToolTip": "C:\\Users\\feket\\Documents\\Maze\\Maze\\Maze_FB_12c\\MazeTest\\MazeTest.cs",
+              "RelativeToolTip": "MazeTest\\MazeTest.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAUwFEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T18:45:28.217Z",
+              "IsPinned": true,
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\feket\\Documents\\Maze\\Maze\\Maze_FB_12c\\MazeTest\\Program.cs",
+              "RelativeDocumentMoniker": "MazeTest\\Program.cs",
+              "ToolTip": "C:\\Users\\feket\\Documents\\Maze\\Maze\\Maze_FB_12c\\MazeTest\\Program.cs",
+              "RelativeToolTip": "MazeTest\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T18:44:21.686Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\feket\\Documents\\Maze\\Maze\\Maze_FB_12c\\Maze_FB_12c\\Program.cs",
               "RelativeDocumentMoniker": "Maze_FB_12c\\Program.cs",
               "ToolTip": "C:\\Users\\feket\\Documents\\Maze\\Maze\\Maze_FB_12c\\Maze_FB_12c\\Program.cs",
               "RelativeToolTip": "Maze_FB_12c\\Program.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA8AAAASAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-15T07:13:17.897Z"
+              "WhenOpened": "2025-05-15T07:13:17.897Z",
+              "EditorCaption": ""
             }
           ]
         }
